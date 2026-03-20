@@ -83,10 +83,7 @@
       ]
     }
   },
-  "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
-  },
+  "logo": "/images/kay2.png",
   "navbar": {
     "links": [
       {
@@ -121,5 +118,8 @@
   },
   "background": {
     "image": "/images/space-bling-bg-opacity-20.png"
+  },
+  "appearance": {
+    "default": "dark"
   }
 }
